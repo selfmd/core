@@ -1,0 +1,1 @@
+{"version":3,"file":"identity.d.ts","sourceRoot":"","sources":["../src/identity.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,qBAAqB,CAAC;AAIzD,wBAAgB,aAAa,CAAC,IAAI,EAAE,UAAU,GAAG,MAAM,CAmBtD;AAED,wBAAgB,wBAAwB,CAAC,WAAW,EAAE,UAAU,GAAG,MAAM,CAIxE;AAED,wBAAgB,gBAAgB,CAAC,WAAW,CAAC,EAAE,MAAM,GAAG,aAAa,CAepE"}

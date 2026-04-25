@@ -1,0 +1,1 @@
+{"version":3,"file":"signatures.d.ts","sourceRoot":"","sources":["../../src/crypto/signatures.ts"],"names":[],"mappings":"AAEA,wBAAgB,IAAI,CAAC,OAAO,EAAE,UAAU,EAAE,UAAU,EAAE,UAAU,GAAG,UAAU,CAE5E;AAED,wBAAgB,MAAM,CACpB,SAAS,EAAE,UAAU,EACrB,OAAO,EAAE,UAAU,EACnB,SAAS,EAAE,UAAU,GACpB,OAAO,CAMT"}
